@@ -1,0 +1,15 @@
+/Users/user/Google Диск (da@tdpartner.org)/GB/2023/Разработчик/7. Знакомство с языками программирования (семинары) /Урок 3. Базовые алгоритмы. Продолжение/HW3/21/bin/Debug/net6.0/21
+/Users/user/Google Диск (da@tdpartner.org)/GB/2023/Разработчик/7. Знакомство с языками программирования (семинары) /Урок 3. Базовые алгоритмы. Продолжение/HW3/21/bin/Debug/net6.0/21.deps.json
+/Users/user/Google Диск (da@tdpartner.org)/GB/2023/Разработчик/7. Знакомство с языками программирования (семинары) /Урок 3. Базовые алгоритмы. Продолжение/HW3/21/bin/Debug/net6.0/21.runtimeconfig.json
+/Users/user/Google Диск (da@tdpartner.org)/GB/2023/Разработчик/7. Знакомство с языками программирования (семинары) /Урок 3. Базовые алгоритмы. Продолжение/HW3/21/bin/Debug/net6.0/21.dll
+/Users/user/Google Диск (da@tdpartner.org)/GB/2023/Разработчик/7. Знакомство с языками программирования (семинары) /Урок 3. Базовые алгоритмы. Продолжение/HW3/21/bin/Debug/net6.0/21.pdb
+/Users/user/Google Диск (da@tdpartner.org)/GB/2023/Разработчик/7. Знакомство с языками программирования (семинары) /Урок 3. Базовые алгоритмы. Продолжение/HW3/21/obj/Debug/net6.0/21.csproj.AssemblyReference.cache
+/Users/user/Google Диск (da@tdpartner.org)/GB/2023/Разработчик/7. Знакомство с языками программирования (семинары) /Урок 3. Базовые алгоритмы. Продолжение/HW3/21/obj/Debug/net6.0/21.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Google Диск (da@tdpartner.org)/GB/2023/Разработчик/7. Знакомство с языками программирования (семинары) /Урок 3. Базовые алгоритмы. Продолжение/HW3/21/obj/Debug/net6.0/21.AssemblyInfoInputs.cache
+/Users/user/Google Диск (da@tdpartner.org)/GB/2023/Разработчик/7. Знакомство с языками программирования (семинары) /Урок 3. Базовые алгоритмы. Продолжение/HW3/21/obj/Debug/net6.0/21.AssemblyInfo.cs
+/Users/user/Google Диск (da@tdpartner.org)/GB/2023/Разработчик/7. Знакомство с языками программирования (семинары) /Урок 3. Базовые алгоритмы. Продолжение/HW3/21/obj/Debug/net6.0/21.csproj.CoreCompileInputs.cache
+/Users/user/Google Диск (da@tdpartner.org)/GB/2023/Разработчик/7. Знакомство с языками программирования (семинары) /Урок 3. Базовые алгоритмы. Продолжение/HW3/21/obj/Debug/net6.0/21.dll
+/Users/user/Google Диск (da@tdpartner.org)/GB/2023/Разработчик/7. Знакомство с языками программирования (семинары) /Урок 3. Базовые алгоритмы. Продолжение/HW3/21/obj/Debug/net6.0/refint/21.dll
+/Users/user/Google Диск (da@tdpartner.org)/GB/2023/Разработчик/7. Знакомство с языками программирования (семинары) /Урок 3. Базовые алгоритмы. Продолжение/HW3/21/obj/Debug/net6.0/21.pdb
+/Users/user/Google Диск (da@tdpartner.org)/GB/2023/Разработчик/7. Знакомство с языками программирования (семинары) /Урок 3. Базовые алгоритмы. Продолжение/HW3/21/obj/Debug/net6.0/21.genruntimeconfig.cache
+/Users/user/Google Диск (da@tdpartner.org)/GB/2023/Разработчик/7. Знакомство с языками программирования (семинары) /Урок 3. Базовые алгоритмы. Продолжение/HW3/21/obj/Debug/net6.0/ref/21.dll
